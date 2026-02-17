@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "RAWFEAR",
+  "base_artist": "Twenty One Pilots",
+  "createdAt": "2026-02-17T11:50:27.294531Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "RAWFEAR",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/01_RAWFEAR_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Twenty One Pilots - RAWFEAR (Official Audio)",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/02_Twenty_One_Pilots_-_RAWFEAR_(Official_Audio)_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RAWFEAR",
+      "artist": "Twenty One Pilots",
+      "has_synced": false,
+      "path": "select/pl_01_RAWFEAR_Twenty_One_Pilots.txt"
+    }
+  ]
+}
